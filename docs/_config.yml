@@ -1,8 +1,8 @@
 title: SmartSubAI Documentation
 description: Advanced Subdomain Enumeration with AI-Powered Risk Assessment
 theme: jekyll-theme-minimal
-baseurl: "/SmartSubAI/docs"
-url: "https://OCEANOFANYTHING.github.io/SmartSubAI"
+baseurl: "/SmartSubAI"
+url: "https://OCEANOFANYTHING.github.io"
 
 # Build settings
 markdown: kramdown
@@ -22,4 +22,4 @@ footer:
     - text: Cohere
       url: https://cohere.com
     - text: GitHub
-      url: https://github.com/yourusername/SmartSubAI 
+      url: https://github.com/OCEANOFANYTHING/SmartSubAI

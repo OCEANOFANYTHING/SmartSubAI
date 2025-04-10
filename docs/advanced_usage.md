@@ -1,3 +1,9 @@
+---
+layout: default
+title: Advanced Usage
+description: Advanced usage guide for SmartSubAI tool
+---
+
 # SmartSubAI - Advanced Usage Guide
 
 This document provides detailed information for advanced users and developers working with SmartSubAI.
@@ -389,4 +395,4 @@ python smartsubai.py -d example.com --test
 
 ## Contributing
 
-See our [Contributing Guidelines](../CONTRIBUTING.md) for details on how to contribute to SmartSubAI. 
+See our [Contributing Guidelines](../CONTRIBUTING.md) for details on how to contribute to SmartSubAI.
