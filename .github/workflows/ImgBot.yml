@@ -1,0 +1,19 @@
+name: ImgBot
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Every day at midnight
+  push:
+    branches:
+      - main
+
+jobs:
+  optimize_images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run ImgBot
+        uses: imgbot/ImgBot-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
