@@ -1,0 +1,22 @@
+            - name: Image Optimization
+  # You may pin to the exact commit or the version.
+  # uses: philspaces/image-optimization@72aa3df54e3bfe2b7ea6c2d99c42c7bbf5bb2b51
+  uses: philspaces/image-optimization@v1.0.0
+  with:
+    # GITHUB_TOKEN or a `repo` scoped Personal Access Token (PAT)
+    token: # optional, default is ${{ github.token }}
+    # Relative path under $GITHUB_WORKSPACE to the repository. Defaults to $GITHUB_WORKSPACE.
+
+    file: # optional
+    # The branch to scan when optimizing images.
+    branch: # optional, default is staging
+    # The branch to use when committing optimized images.
+    commit-branch: # optional
+    # The message to use when committing changes.
+    commit-message: # optional, default is [image-optimization] automated change
+    # The committer name and email address in the format `Display Name <email@address.com>`. Defaults to the GitHub Actions bot user.
+
+    committer: # optional, default is GitHub <noreply@github.com>
+    # If true, no changes will be made to the repo
+    dryrun: # optional
+          
