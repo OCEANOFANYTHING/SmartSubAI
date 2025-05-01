@@ -1,0 +1,9 @@
+# .github/ImgBot/config.yml
+imgBot:
+  enabled: true
+  auto_commit: true
+  auto_merge: true
+  enabled_optimizers:
+    - png
+    - jpeg
+    - gif
