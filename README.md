@@ -4,7 +4,7 @@
 
 ## Advanced Subdomain Enumeration with AI-Powered Risk Assessment
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Configuration](#configuration) • [Examples](#examples) • [Contributing](#contributing)
+[Features](https://scriptxeno.github.io/posts/smartsubai-ai-powered-domain-allocation-tool/#-key-features-of-smartsubai) • [Installation](https://scriptxeno.github.io/posts/smartsubai-ai-powered-domain-allocation-tool/#%EF%B8%8F-installation-guide) • [Usage](https://scriptxeno.github.io/posts/smartsubai-ai-powered-domain-allocation-tool/#-using-smartsubai) • [Configuration](https://scriptxeno.github.io/posts/smartsubai-ai-powered-domain-allocation-tool/#%EF%B8%8F-deep-dive-into-configuration) • [Examples](https://scriptxeno.github.io/posts/smartsubai-ai-powered-domain-allocation-tool/#-real-world-usage-examples) • [Contributing](https://scriptxeno.github.io/posts/smartsubai-ai-powered-domain-allocation-tool/#-contribution-guidelines)
 
 ## Features
 
